@@ -51,20 +51,23 @@ Architecture
 
 內容可包含：
 
-- 系統架構概覽
+- 架構概覽（Architecture Overview）
 - 架構風格（Architecture Style）
-- 系統模組
-- 模組職責
-- 邊界定義
-- 系統互動流程
-- 資料流
-- 部署架構
-- 外部整合
-- 安全設計
-- 可擴充性
-- 高可用性
-- 可觀測性
-- 風險與限制
+- 技術選型（Technology Stack）
+- 系統情境圖（System Context Diagram）
+- 模組圖（Module Diagram）
+- 元件職責（Component Responsibilities）
+- 資料流程（Data Flow）
+- 部署架構（Deployment Architecture）
+- 外部整合（Integration Points）
+- 安全架構（Security Architecture）
+- 可擴充性（Scalability）
+- 高可用性（Availability）
+- 可觀測性（Observability）
+- 架構決策（Architecture Decisions）
+- 風險（Risks）
+- 限制條件（Constraints）
+- 待決事項（Open Questions）
 
 ---
 ## Update Architecture
