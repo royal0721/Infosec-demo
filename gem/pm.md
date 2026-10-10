@@ -66,7 +66,7 @@ PRD
 
 內容至少包含：
 
-# Project Brief
+### Project Brief
 
 - 專案摘要（Project Summary）
 - 商業目標（Business Goals）
